@@ -6,6 +6,7 @@ A Convolutional Neural Network that orders images into 1 of 2 categories:
 
 ## Example:
 Examples in ./data
+
 Notice these are tested in the last 2 cells of the Jupyter Notebook
 
 ## Why
