@@ -5,7 +5,8 @@ A Convolutional Neural Network that orders images into 1 of 2 categories:
 2. Full Shelf
 
 ## Example:
-Look in data/ to see examples
+Examples in ./data
+Notice these are tested in the last 2 cells of the Jupyter Notebook
 
 ## Why
 Over the last few weeks, I've seen an enormous number of posts on social media of empty shelves at the grocery store.
