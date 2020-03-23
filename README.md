@@ -42,8 +42,7 @@ Although I designed and trained my own model, I found lots of help on Keras spec
 Finding and obtaining a decent number of images was my main concern. I used a chrome extention to download every available image on google that matched my search, 'Empty shelves grocery store'. Then I hand picked the ones I thought were appropriate for the model.
 I rinse and repeated this process to find the images of full shelves. In the end, I only ended up with about ~800 pictures of empty and full shelves.
 
-I orignally wanted to also add in images of other things like: selfies, pets, screenshots, ... Other things people post on social media but theres a problem with this approach. In order for the model to learn the difference between a 'full shelf', an 'empty shelf', and 'Everything else' I would have way more
-I'd need lots of 'Not empty shelf' images. The problem is I could only get my hands on ~450 images of empty shelves. In order to get the best accuracy, I changed the scope of the project (I know, I know, I'll do better next time Mom).
+I orignally wanted to also add in images of other things like: selfies, pets, screenshots, ... Other things people post on social media but theres a problem with this approach. In order for the model to learn the difference between a 'full shelf', an 'empty shelf', and 'Everything else' I would have way more 'Not empty shelf' images. The problem is I could only get my hands on ~450 images of empty shelves. In order to get the best accuracy, I changed the scope of the project (I know, I know, shame on me).
 
 ## Results
 The results seemed fantastic (~94%) for my admittedly small train and validation data. If you notice, I also test 2 hidden sanity images that aren't part of training or testing data.
