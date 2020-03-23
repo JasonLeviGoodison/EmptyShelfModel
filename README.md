@@ -1,5 +1,4 @@
 # Empty Shelf Model:
-## What:
 A Convolutional Neural Network that orders images into 1 of 2 categories:
 1. Empty Shelf
 2. Full Shelf
